@@ -8,7 +8,7 @@ A modern and responsive **Todo Dashboard** built with **React**, **Redux Toolkit
 
 > Add your deployed Vercel link here
 
-**Live:** https://your-project.vercel.app
+**Live:** https://todo-app-redux-dusky.vercel.app/
 
 ---
 
