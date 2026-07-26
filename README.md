@@ -89,7 +89,7 @@ src
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/redux-todo-dashboard.git
+git clone git remote add origin git@github.com:chanchal430/todo-app-redux.git
 ```
 
 Move inside the project
